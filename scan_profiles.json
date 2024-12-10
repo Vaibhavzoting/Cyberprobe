@@ -1,0 +1,6 @@
+{
+    "MyScanProfile": {
+        "target_ip": "10.10.252.44",
+        "ports": "1-500"
+    }
+}
